@@ -8,7 +8,7 @@
 	</style>
 </head>
 <body>
-	<h2>Hello BiniTutor!</h2>
+	<h2>Hello from BiniTutor!</h2>
 	<button onclick="alert('hi')">Click</button>
 </body>
 </html>
